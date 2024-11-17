@@ -8,6 +8,6 @@ Estou muito entusiasmado com a ideia de começar a usar o GitHub para criar novo
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dannyllowsousa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiothalles607@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dannystreaming29@gmail.com)
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloSousaa&show_icons=true&theme=synthwave)
